@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SubPemula</string>
+    <string name="txt_imageview">imageview</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_username">username</string>
+    <string name="txt_harga">Harga</string>
+    <string name="profile">Profile</string>
+    <string name="nairaxaviera_gmail_com">nairaxaviera@gmail.com</string>
+    <string name="fathimah_nurnailah_mahira">Fathimah Nurnailah Mahira</string>
+    <string name="txt_name_detail">Donuts</string>
+    <string name="txt_price">price</string>
+    <string name="txt_desc">desc</string>
+</resources>
